@@ -2,6 +2,12 @@
 
 In this project, I would be Performing EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
 
+## Data Cleaning
+
+### The Date column
+
+## Checking for Null Values
+
 ## BASIC CALCULATIONS USING AGGREGATE FUNCTIONS
 
 1. What is the total amount of ordered?
