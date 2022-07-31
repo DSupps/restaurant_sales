@@ -5,6 +5,6 @@ In this project, I would be Performing EDA on a restaurant sales Dataset using S
 ## BASIC CALCULATIONS USING AGGREGATE FUNCTIONS
 
 1. What is the total amount of ordered?
--- What is the Total quantity of items sold?
--- What is the average delivery time?
--- What is the average rating for food?
+2. What is the Total quantity of items sold?
+3. What is the average delivery time?
+4. What is the average rating for food?
