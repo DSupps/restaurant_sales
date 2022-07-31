@@ -3,6 +3,9 @@
 In this project, I would be Performing EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
 ## DATA JOINING
 
+![restaurants_columns](https://user-images.githubusercontent.com/36451701/182049003-12629cad-14a5-4243-b493-e16fd4f20a81.png)
+
+
 ### Creating a CTE
 In order to easily reference our joined table, I created a common table expression (CTE).
 
