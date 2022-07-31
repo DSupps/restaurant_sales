@@ -34,4 +34,9 @@ In order to easily reference our joined table, I created a common table expressi
 ![aggregate_functions_zone_2](https://user-images.githubusercontent.com/36451701/182048678-7ab3170a-da69-424f-ac39-29cc30d5c542.png)
 
 ### Snapshot of each restaurant
+
+![aggregate_functions_restaurant_1](https://user-images.githubusercontent.com/36451701/182049370-0407ecd8-9cd8-4a5b-9165-b66fff49ad4a.png)
+
+![aggregate_functions_restaurant_2](https://user-images.githubusercontent.com/36451701/182049392-355447cd-87a5-4b85-8905-ca27b5f28f10.png)
+
 1. What restaurant had the most orders?
