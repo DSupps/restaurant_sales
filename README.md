@@ -24,3 +24,6 @@ In order to easily reference our joined table, I created a common table expressi
 
 ![aggregate_functions_1](https://user-images.githubusercontent.com/36451701/182047930-b95836bc-8649-4527-a27e-9b7973819a5a.png)
 
+### Snapshot of each zone
+
+![aggregate_functions_zone_1](https://user-images.githubusercontent.com/36451701/182048654-b17569de-1841-447b-a985-051bd578e26b.png)
