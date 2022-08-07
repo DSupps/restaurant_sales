@@ -22,10 +22,10 @@ In order to easily reference our joined table, I created a common table expressi
 4. What is the average delivery time?
 5. What is the average rating for food?
 
+![aggregate_functions_1](https://user-images.githubusercontent.com/36451701/183312672-2e0e3330-baf2-4b1e-86db-4f82a4be8823.png)
 
-![aggregate_functions_2](https://user-images.githubusercontent.com/36451701/182047925-ab351664-927b-4534-a877-cfc1405c59b2.png)
+![aggregate_functions_2](https://user-images.githubusercontent.com/36451701/183312675-6f47a1c4-c8f0-4c85-b20b-d3add2a89a56.png)
 
-![aggregate_functions_1](https://user-images.githubusercontent.com/36451701/182047930-b95836bc-8649-4527-a27e-9b7973819a5a.png)
 
 ### Snapshot of each zone
 
