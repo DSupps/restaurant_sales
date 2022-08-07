@@ -39,14 +39,19 @@ In order to easily reference our joined table, I created a common table expressi
 
 ![aggregate_functions_restaurant_2](https://user-images.githubusercontent.com/36451701/182049392-355447cd-87a5-4b85-8905-ca27b5f28f10.png)
 
-1. What restaurant had the most orders?
+1. Which restaurants had the most orders?
 
 ![aggregate_functions_restaurant_3](https://user-images.githubusercontent.com/36451701/182049478-0a3cbd51-afa8-425c-a453-b4dd8fe5a5f6.png)
 
 ![aggregate_functions_restaurant_4](https://user-images.githubusercontent.com/36451701/182049506-2c623be0-77d2-4f18-bcab-84f1bb2cf1b5.png)
 
-2. What restaurant has the highest customer rating?
+2. Which restaurants had the highest customer rating?
 
 ![aggregate_functions_restaurant_ratingpng](https://user-images.githubusercontent.com/36451701/182049763-74b5dc4e-53b5-4312-be11-a20d446a8436.png)
 
 ![aggregate_functions_restaurant_rating2](https://user-images.githubusercontent.com/36451701/182049803-b0008e47-b70f-4179-bfdb-793a34a54704.png)
+
+3. Which restaurants have the quickest delivery?
+
+![aggregate_functions_delivery_time](https://user-images.githubusercontent.com/36451701/183312143-0e998d4d-1185-485c-a3bf-94f751f1fcb2.png)
+
