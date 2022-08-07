@@ -63,4 +63,10 @@ In order to easily reference our joined table, I created a common table expressi
 
 ![aggregate_functions_payment_type_b](https://user-images.githubusercontent.com/36451701/183312552-e527fc3e-6a62-45da-9d97-a79f5877b74d.png)
 
+5. What is the most liked cuisine?
+
+![aggregate_functions_popular_cuisine](https://user-images.githubusercontent.com/36451701/183312935-6bc7cb6e-cd39-4450-9b00-8c5e0ef7806d.png)
+
+![aggregate_functions_popular_cuisineb](https://user-images.githubusercontent.com/36451701/183312945-81d902eb-5591-4810-8d30-61f648fc9ceb.png)
+
 
