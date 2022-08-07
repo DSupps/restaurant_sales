@@ -69,4 +69,6 @@ In order to easily reference our joined table, I created a common table expressi
 
 ![aggregate_functions_popular_cuisineb](https://user-images.githubusercontent.com/36451701/183312945-81d902eb-5591-4810-8d30-61f648fc9ceb.png)
 
+## Summary
 
+This project was for learning and practice purposes. I made use of various SQL statements such as the basic SELECT, WHERE AND FROM Statements, then I went a little more advanced by joining two tables together using the JOIN Statement. I created a CTE of the joined tables using sub-queries and combined it with other queries in order to extract insights from the data set.
