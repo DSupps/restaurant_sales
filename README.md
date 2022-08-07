@@ -3,6 +3,10 @@
 In this project, I would be Performing EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
 ## DATA JOINING
 
+![restaurants_join](https://user-images.githubusercontent.com/36451701/183313091-8ab6338a-9e41-41e8-adaa-0e260c3b90ea.png)
+
+![restaurants_join_b](https://user-images.githubusercontent.com/36451701/183313095-27f35de2-999a-4d97-ab95-d22d66f0e15c.png)
+
 ![restaurants_columns](https://user-images.githubusercontent.com/36451701/182049003-12629cad-14a5-4243-b493-e16fd4f20a81.png)
 
 
