@@ -59,7 +59,8 @@ In order to easily reference our joined table, I created a common table expressi
 
 4. What payment mode was used frequently by customers?
 
-![aggregate_functions_payment_type](https://user-images.githubusercontent.com/36451701/183312492-66cf3f4b-b170-4f73-8550-e1c9d2f45600.png)
+![aggregate_functions_payment_type](https://user-images.githubusercontent.com/36451701/183312551-1c6a6559-4471-4837-9428-e0d66847f633.png)
 
-![aggregate_functions_payment_type_b](https://user-images.githubusercontent.com/36451701/183312514-4cab8740-4c35-4275-a33c-51c6779d584c.png)
+![aggregate_functions_payment_type_b](https://user-images.githubusercontent.com/36451701/183312552-e527fc3e-6a62-45da-9d97-a79f5877b74d.png)
+
 
