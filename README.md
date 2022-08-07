@@ -2,6 +2,20 @@
 
 In this project, I would be Performing EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
 
+I will be answering the following questions
+
+1. What is the Total amount of orders?
+2. What is the Total quantity of items sold?
+3. What is the average delivery time?
+4. What is the average rating for food?
+5. What customer ordered the most?
+6. What restaurant had the most orders?
+7. What payment mode was used frequently by customers?
+8. What is the most liked cuisine?
+9. What time of the day did customers order the most?
+10. What amount of customers did each zone have?
+11. Which zone had the most orders
+
 ## DATA CLEANING
 
 ### The Date column (Separate date and order time from order_date column)
