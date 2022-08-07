@@ -1,6 +1,15 @@
 # restaurant_sales
 
 In this project, I would be Performing EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
+
+## DATA CLEANING
+
+### The Date column (Separate date and order time from order_date column)
+
+![restaurants_new_cols](https://user-images.githubusercontent.com/36451701/183313473-88ca8d87-0223-4308-9e54-527a80d8e13b.png)
+
+### Checking for Null Values
+
 ## DATA JOINING
 
 ![restaurants_join](https://user-images.githubusercontent.com/36451701/183313091-8ab6338a-9e41-41e8-adaa-0e260c3b90ea.png)
@@ -12,11 +21,6 @@ In this project, I would be Performing EDA on a restaurant sales Dataset using S
 
 ### Creating a CTE
 In order to easily reference our joined table, I created a common table expression (CTE).
-
-## DATA CLEANING
-
-### The Date column
-### Checking for Null Values
 
 ## BASIC CALCULATIONS USING AGGREGATE FUNCTIONS
 
