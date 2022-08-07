@@ -55,3 +55,4 @@ In order to easily reference our joined table, I created a common table expressi
 
 ![aggregate_functions_delivery_time](https://user-images.githubusercontent.com/36451701/183312143-0e998d4d-1185-485c-a3bf-94f751f1fcb2.png)
 
+![aggregate_functions_delivery_time_b](https://user-images.githubusercontent.com/36451701/183312185-30af36b9-7bf1-4d25-9618-798c89232da1.png)
