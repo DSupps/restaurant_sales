@@ -20,7 +20,7 @@ I will be answering the following questions
 
 ### The Date column (Separate date and order time from order_date column)
 
-The format of the order date column was Date/time. I extracted the time from it using the convert function since I would be needing it in my analysis. The dates are all the same (occurred on the 1st of January 2022) so I deleted the date column from the table using the Alter and Drop clause.
+The format of the order date column was Date/time. I extracted the time from it using the convert function since I would be needing it in my analysis.
 
 ![restaurants_new_cols](https://user-images.githubusercontent.com/36451701/183313473-88ca8d87-0223-4308-9e54-527a80d8e13b.png)
 
