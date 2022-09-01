@@ -18,7 +18,7 @@ I will be answering the following questions
 
 ## DATA CLEANING
 
-### The Date column (Separate date and order time from order_date column)
+### Step 1) Separate date and order time from "order_date" column)
 
 The format of the order date column was Date/time. I extracted the time from it using the convert function since I would be needing it in my analysis.
 
@@ -29,7 +29,7 @@ New columns "new_order_date" and "new_order_time" created.
 ![data_cleansing](https://user-images.githubusercontent.com/36451701/188020268-bd6d94d4-3022-48ca-b089-1417c75fd1e4.png)
 
 
-### Checking for Null Values
+### Step 2) Check for Null Values
 
 ## DATA JOINING
 
