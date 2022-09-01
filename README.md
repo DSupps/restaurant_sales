@@ -1,6 +1,6 @@
 # restaurant_sales
 
-In this project, I would be Performing EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
+In this project, I perfromed EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
 
 I will be answering the following questions
 
