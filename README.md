@@ -24,7 +24,7 @@ The format of the order date column was Date/time. I extracted the time from it 
 
 ![restaurants_new_cols](https://user-images.githubusercontent.com/36451701/183313473-88ca8d87-0223-4308-9e54-527a80d8e13b.png)
 
-New columns created
+New columns "new_order_date" and "new_order_time" created.
 
 ![data_cleansing](https://user-images.githubusercontent.com/36451701/188020268-bd6d94d4-3022-48ca-b089-1417c75fd1e4.png)
 
