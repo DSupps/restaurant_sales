@@ -69,7 +69,7 @@ Using the join clause I was able to join the two tables together using the colum
 ![aggregate_functions_2](https://user-images.githubusercontent.com/36451701/183312675-6f47a1c4-c8f0-4c85-b20b-d3add2a89a56.png)
 
 
-### Snapshot of each zone
+### What amount of customers did each zone have?
 
 ![aggregate_functions_zone_1](https://user-images.githubusercontent.com/36451701/182048654-b17569de-1841-447b-a985-051bd578e26b.png)
 
