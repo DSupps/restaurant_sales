@@ -24,6 +24,10 @@ Confirm if my dataset had any null values.  Removing any null values so the perf
 
 ![data_cleansing_nulls](https://user-images.githubusercontent.com/36451701/188035081-16fc8d73-be6e-4e11-b277-3371aaa166cd.png)
 
+No null vaues were found.
+
+![data_cleansing_c](https://user-images.githubusercontent.com/36451701/188035205-04d7937c-8b4f-4995-ab26-fe2e17106adf.png)
+
 ### Step 2) Separate date and order time from "order_date" column.
 
 The format of the order date column was Date/time. I extracted the time from it using the convert function since I would be needing it in my analysis.
