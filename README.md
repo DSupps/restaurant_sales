@@ -41,14 +41,13 @@ Create new columns "new_order_date" and "new_order_time" to analyze time perform
 
 ## DATA JOINING
 
+### Creating a CTE
+
 The first table "order" contains the order information while the second table "restuarants" contains the restaurant information. I will need the two tables merged in order to carry out my aggregate analysis.
 
-Using the join clause I was able to join the two tables together using the column specific to both tables.
-
-![data_join](https://user-images.githubusercontent.com/36451701/188036466-0cda5c5c-95d6-4c12-945f-34b9230279b9.png)
-
-### Creating a CTE
 In order to easily reference our joined table, I created a common table expression (CTE).
+
+Using the join clause I was able to join the two tables together using the column specific to both tables.
 
 ![restaurants_join](https://user-images.githubusercontent.com/36451701/183313091-8ab6338a-9e41-41e8-adaa-0e260c3b90ea.png)
 
