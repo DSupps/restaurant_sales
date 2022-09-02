@@ -58,7 +58,8 @@ Using the join clause I was able to join the two tables together using the colum
 
 ## BASIC CALCULATIONS USING AGGREGATE FUNCTIONS
 
-1. What is the total amount of ordered?
+1. What zone had the most orders?
+2. What is the total amount of ordered?
 2. What is the average total amount ordered?
 3. What is the Total quantity of items sold?
 4. What is the average delivery time?
@@ -69,7 +70,7 @@ Using the join clause I was able to join the two tables together using the colum
 ![aggregate_functions_2](https://user-images.githubusercontent.com/36451701/183312675-6f47a1c4-c8f0-4c85-b20b-d3add2a89a56.png)
 
 
-### What amount of customers did each zone have?
+### Question 1 - What zone had the most orders?
 
 ![aggregate_functions_zone_1](https://user-images.githubusercontent.com/36451701/182048654-b17569de-1841-447b-a985-051bd578e26b.png)
 
