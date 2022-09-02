@@ -45,6 +45,8 @@ The first table "order" contains the order information while the second table "r
 
 Using the join clause I was able to join the two tables together using the column specific to both tables.
 
+![data_join](https://user-images.githubusercontent.com/36451701/188036466-0cda5c5c-95d6-4c12-945f-34b9230279b9.png)
+
 ### Creating a CTE
 In order to easily reference our joined table, I created a common table expression (CTE).
 
