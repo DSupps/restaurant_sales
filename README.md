@@ -41,7 +41,7 @@ Create new columns "new_order_date" and "new_order_time" to analyze time perform
 
 ## DATA JOINING
 
-The first table "order" contains the order information while the second table "restuarants" contains the restaurant information. I will need the two tables merged in order to carry out my analysis.
+The first table "order" contains the order information while the second table "restuarants" contains the restaurant information. I will need the two tables merged in order to carry out my aggregate analysis.
 
 Using the join clause I was able to join the two tables together using the column specific to both tables.
 
