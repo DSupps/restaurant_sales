@@ -2,7 +2,7 @@
 
 In this project, I perfromed EDA on a restaurant sales Dataset using SQL. The dataset was downloaded from Kaggle and imported into SQL Server Management Studio.
 
-I will be answering the following questions
+Some of the questions I looked at answering:
 
 1. What is the Total amount of orders?
 2. What is the Total quantity of items sold?
