@@ -18,7 +18,13 @@ I will be answering the following questions
 
 ## DATA CLEANING
 
-### Step 1) Separate date and order time from "order_date" column)
+### Step 1) Check for Null Values
+
+Confirm if my dataset had any null values.  Removing any null values so the performance and accuracy of the data are not adversely affected.
+
+![data_cleansing_nulls](https://user-images.githubusercontent.com/36451701/188035081-16fc8d73-be6e-4e11-b277-3371aaa166cd.png)
+
+### Step 2) Separate date and order time from "order_date" column.
 
 The format of the order date column was Date/time. I extracted the time from it using the convert function since I would be needing it in my analysis.
 
@@ -28,10 +34,6 @@ Create new columns "new_order_date" and "new_order_time" to analyze time perform
 
 ![data_cleansing](https://user-images.githubusercontent.com/36451701/188020268-bd6d94d4-3022-48ca-b089-1417c75fd1e4.png)
 
-
-### Step 2) Check for Null Values
-
-Confirm if my dataset had any null values.  Removing any null values so the performance and accuracy of the data are not adversely affected.
 
 ## DATA JOINING
 
