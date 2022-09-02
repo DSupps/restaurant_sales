@@ -31,6 +31,8 @@ Create new columns "new_order_date" and "new_order_time" to analyze time perform
 
 ### Step 2) Check for Null Values
 
+Confirm if my dataset had any null values.  Removing any null values so the performance and accuracy of the data are not adversely affected.
+
 ## DATA JOINING
 
 ### Creating a CTE
