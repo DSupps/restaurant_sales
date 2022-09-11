@@ -18,7 +18,7 @@ Some of the questions I looked at answering:
 
 ## DATA CLEANING
 
-I want to create some summary statistics (mean, maximum, minimum values) to find some insights. In order to draw accuarete insights, I need my to data to be accuarate. First thing I did was check for any missing values.  Performing any statisitcal analysis on datasets without taking care of invalid entries may cause innacurate analysis. 
+I want to create some summary statistics (mean, maximum, minimum values) to find some insights. In order to draw accurate insights, I need my data to be accurate. First thing I did was check for any missing values.  Performing any statistical analysis on datasets without taking care of invalid entries may cause inaccurate analysis.
 
 ### Step 1) Check for Null Values
 
