@@ -18,7 +18,7 @@ Some of the questions I looked at answering:
 
 ## DATA CLEANING
 
-I want to create some summary statistics (mean, maximum, minimum values) to find some insights. In order to draw accurate insights, I need my data to be accurate. First thing I did was check for any missing values.  Performing any statistical analysis on datasets without taking care of invalid entries may cause inaccurate analysis.
+I want to create some summary statistics (mean, maximum, minimum values) to find some valuable insights from my dataset. In order to draw those accurate/valuable insights, I need my data to be accurate. First thing I did was check for any missing values.  Performing any statistical analysis on datasets without taking care of invalid entries may cause inaccurate analysis.
 
 ### Step 1) Check for Null Values
 
@@ -111,6 +111,14 @@ Using the join clause I was able to join the two tables together using the colum
 ![aggregate_functions_popular_cuisine](https://user-images.githubusercontent.com/36451701/183312935-6bc7cb6e-cd39-4450-9b00-8c5e0ef7806d.png)
 
 ![aggregate_functions_popular_cuisineb](https://user-images.githubusercontent.com/36451701/183312945-81d902eb-5591-4810-8d30-61f648fc9ceb.png)
+
+### Question #7 - What is the average total amount spent?
+
+### Question #8 - What is the total quantity of items sold?
+
+### Question #9 - What is the average delivery time?
+
+### Question #10 - What is the average rating for food?
 
 ## Summary
 
