@@ -112,7 +112,12 @@ Using the join clause I was able to join the two tables together using the colum
 
 ![aggregate_functions_popular_cuisineb](https://user-images.githubusercontent.com/36451701/183312945-81d902eb-5591-4810-8d30-61f648fc9ceb.png)
 
-### Question #7 - What is the average total amount spent?
+### Question #7 - What is the average total amount spent on an order?
+
+![average_order_a](https://user-images.githubusercontent.com/36451701/189551038-4f8c2552-9471-4e79-943a-16d6ae502aea.png)
+
+![average_order_b](https://user-images.githubusercontent.com/36451701/189551070-7166fb76-8123-4013-a98e-087979cc1b25.png)
+
 
 ### Question #8 - What is the total quantity of items sold?
 
