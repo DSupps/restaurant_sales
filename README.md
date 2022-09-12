@@ -123,7 +123,7 @@ Using the join clause I was able to join the two tables together using the colum
 
 ![total_qty_sold_a](https://user-images.githubusercontent.com/36451701/189551223-6ad980e2-9cc7-498a-ad06-a50c93209941.png)
 
-![total_qty_sold_b](https://user-images.githubusercontent.com/36451701/189554906-c2d9658f-12c5-4e53-95a8-1ed820309da1.png)
+![aggregation_total_food_items_sold](https://user-images.githubusercontent.com/36451701/189555633-6e34a3df-6753-449e-bcb5-114399944dee.png)
 
 ### Question #9 - What is the average delivery time?
 
