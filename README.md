@@ -133,6 +133,11 @@ Using the join clause I was able to join the two tables together using the colum
 
 ### Question #10 - What is the average rating for food?
 
+![food_rating](https://user-images.githubusercontent.com/36451701/189555224-78a734b0-81ee-44fa-8ff8-e40eb1e18ebf.png)
+
+![aggregation_food_rating](https://user-images.githubusercontent.com/36451701/189555229-f9e19c67-2308-432a-a3ad-02b638e6d059.png)
+
+
 ## Summary
 
 This project was for learning and practice purposes. I made use of various SQL statements such as the basic SELECT, WHERE AND FROM Statements, then I went a little more advanced by joining two tables together using the JOIN Statement. I created a CTE of the joined tables using sub-queries and combined it with other queries in order to extract insights from the data set.
