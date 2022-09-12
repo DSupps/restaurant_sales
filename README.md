@@ -129,7 +129,7 @@ Using the join clause I was able to join the two tables together using the colum
 
 ![avg_delivery_time_a](https://user-images.githubusercontent.com/36451701/189554947-aa37726b-bdad-4eeb-85b1-9ec4d90220c4.png)
 
-![avg_delivery_time_b](https://user-images.githubusercontent.com/36451701/189554991-ca21c52c-b804-4228-8f9d-399bd409a685.png)
+![aggregation_delivery_time](https://user-images.githubusercontent.com/36451701/189555383-b2521281-55a3-443a-b4bd-15ba0a4670fa.png)
 
 ### Question #10 - What is the average rating for food?
 
