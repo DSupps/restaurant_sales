@@ -94,7 +94,7 @@ Using the join clause I was able to join the two tables together using the colum
 
 ![aggregate_functions_restaurant_rating2](https://user-images.githubusercontent.com/36451701/182049803-b0008e47-b70f-4179-bfdb-793a34a54704.png)
 
-### Question #4 -Which restaurants have the quickest delivery time?
+### Question #4 - Which restaurants have the quickest delivery time?
 
 ![aggregate_functions_delivery_time](https://user-images.githubusercontent.com/36451701/183312143-0e998d4d-1185-485c-a3bf-94f751f1fcb2.png)
 
@@ -121,7 +121,15 @@ Using the join clause I was able to join the two tables together using the colum
 
 ### Question #8 - What is the total quantity of items sold?
 
+![total_qty_sold_a](https://user-images.githubusercontent.com/36451701/189551223-6ad980e2-9cc7-498a-ad06-a50c93209941.png)
+
+![total_qty_sold_b](https://user-images.githubusercontent.com/36451701/189554906-c2d9658f-12c5-4e53-95a8-1ed820309da1.png)
+
 ### Question #9 - What is the average delivery time?
+
+![avg_delivery_time_a](https://user-images.githubusercontent.com/36451701/189554947-aa37726b-bdad-4eeb-85b1-9ec4d90220c4.png)
+
+![avg_delivery_time_b](https://user-images.githubusercontent.com/36451701/189554991-ca21c52c-b804-4228-8f9d-399bd409a685.png)
 
 ### Question #10 - What is the average rating for food?
 
