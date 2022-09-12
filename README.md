@@ -116,8 +116,7 @@ Using the join clause I was able to join the two tables together using the colum
 
 ![average_order_a](https://user-images.githubusercontent.com/36451701/189551038-4f8c2552-9471-4e79-943a-16d6ae502aea.png)
 
-![average_order_b](https://user-images.githubusercontent.com/36451701/189551070-7166fb76-8123-4013-a98e-087979cc1b25.png)
-
+![aggregation_avg_order_amount](https://user-images.githubusercontent.com/36451701/189555694-f0848d8f-3dca-4e19-be33-837c18ec0a83.png)
 
 ### Question #8 - What is the total quantity of items sold?
 
