@@ -133,7 +133,7 @@ Using the join clause I was able to join the two tables together using the colum
 
 ### Question #10 - What is the average rating for food?
 
-![food_rating](https://user-images.githubusercontent.com/36451701/189555224-78a734b0-81ee-44fa-8ff8-e40eb1e18ebf.png)
+![food_rating_a](https://user-images.githubusercontent.com/36451701/189555279-badec9d1-872f-400e-a364-bb336475c094.png)
 
 ![aggregation_food_rating](https://user-images.githubusercontent.com/36451701/189555229-f9e19c67-2308-432a-a3ad-02b638e6d059.png)
 
